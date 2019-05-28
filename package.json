@@ -1,0 +1,20 @@
+{
+  "name": "hello-person",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ink": "^2.2.0",
+    "pasteljs": "^1.0.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6"
+  },
+  "bin": "./build/cli.js",
+  "scripts": {
+    "build": "pastel build",
+    "dev": "pastel dev",
+    "prepare": "pastel build"
+  }
+}
