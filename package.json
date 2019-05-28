@@ -1,6 +1,6 @@
 {
-  "name": "hello-person",
-  "version": "1.0.0",
+  "name": "@mogul/hello-person-demo",
+  "version": "1.0.5",
   "description": "",
   "main": "index.js",
   "author": "",
